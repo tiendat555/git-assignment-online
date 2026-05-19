@@ -8,7 +8,8 @@ This project demonstrates:
 
 # Team Members
 - Dat Tran
-- James Fischer
+- Abel Geremew Welde
+- Devan Woodrow
 
 # How to Run
 1. Clone the repo
