@@ -1,5 +1,7 @@
 # Git Assignment
 
+GitHub Repository Link: https://github.com/tiendat555/git-assignment-online
+
 This project demonstrates:
 - Git init
 - Commit
